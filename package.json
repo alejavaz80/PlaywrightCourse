@@ -1,0 +1,17 @@
+{
+  "name": "qachallenge",
+  "version": "1.0.0",
+  "description": "QA Onboarding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test tests/session.spec.js",
+    "debugapi": "npx playwright test tests/apiLogin.spec.js"
+  },
+  "author": "Alejandro Vazquez",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1",
+    "allure": "^0.0.0",
+    "allure-playwright": "^2.0.0-beta.19"
+  }
+}

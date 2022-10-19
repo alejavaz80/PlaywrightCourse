@@ -1,0 +1,28 @@
+{
+    "data" :[
+        {
+            "username" : "chespirito2@hotmail.com",
+            "password" : "Rs@159357",
+            "productName" : "IPHONE PRO 13"
+        },
+
+        {
+            "username" : "ale.castro@hotmail.com",
+            "password" : "Rs@159357",
+            "productName" : "IPHONE PRO 13"
+        }
+    ],
+
+    "nodata" :[
+        {
+            "username" : "bcc.castro@hotmail.com",
+            "password" : "Rs@159357",
+            "productName" : "IPHONE PRO 13"
+        },
+        {
+            "username" : "isc.castro@hotmail.com",
+            "password" : "Rs@159357",
+            "productName" : "IPHONE PRO 13"
+        }
+    ]
+}
